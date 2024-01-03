@@ -79,6 +79,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>microservices-github-action</finalName>
 	</build>
 
 </project>
